@@ -32,7 +32,6 @@ public final class ActivityAuthBinding implements ViewBinding {
     this.fragmentContainerAuth = fragmentContainerAuth;
     this.pbAuth = pbAuth;
   }
-
   @Override
   @NonNull
   public ConstraintLayout getRoot() {
