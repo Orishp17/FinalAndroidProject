@@ -52,7 +52,6 @@ public final class FragmentLoginBinding implements ViewBinding {
     this.etPasswordLayoutLogin = etPasswordLayoutLogin;
     this.etPasswordLogin = etPasswordLogin;
   }
-
   @Override
   @NonNull
   public ConstraintLayout getRoot() {
