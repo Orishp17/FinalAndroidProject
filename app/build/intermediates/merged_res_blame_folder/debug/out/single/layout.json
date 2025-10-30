@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\library_post_item.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\library_post_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\fragment_post.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\fragment_create_post.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_create_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\fragment_favorites.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "com.example.androidproject.app-mergeDebugResources-61:/layout/fragment_home.xml",
+        "source": "com.example.androidproject.app-main-64:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\fragment_npm_registry.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_npm_registry.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\profile_settings_layout.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\profile_settings_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\fragment_register.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\library_post_extras.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\library_post_extras.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\npm_registry_post_item.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\npm_registry_post_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\activity_auth.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\fragment_post_search.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_post_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-mergeDebugResources-61:\\layout\\edit_profile_settings_layout.xml",
+        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\edit_profile_settings_layout.xml"
+    }
+]

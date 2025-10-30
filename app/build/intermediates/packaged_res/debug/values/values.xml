@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="bright">#659DF6</color>
+    <color name="dark">#4284F3</color>
+    <color name="primary">#659DF5</color>
+    <color name="secondary">#AECBFA</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="already_have_an_account_sign_in_now">Already have an account? sign in now</string>
+    <string name="app_name">Modulo</string>
+    <string name="click_here_to_search_library_posts">Click here to search library posts</string>
+    <string name="click_here_to_search_posts">Click here to search posts</string>
+    <string name="click_the_search_icon_to_search">Click here to search npm registry</string>
+    <string name="create_post">Create post</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="don_t_have_an_account_create_one_now">Don\'t have an account? Create one now.</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="enter_library_description_and_instructions">Enter library description and instructions</string>
+    <string name="enter_library_name">Enter library name</string>
+    <string name="enter_library_version">Enter library version</string>
+    <string name="enter_link">Enter link</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_tag">Enter tag</string>
+    <string name="enter_years_of_experience">Enter years of experience</string>
+    <string name="favorites">Favorites</string>
+    <string name="firebase_database_url" translatable="false">https://android-project-ae949-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">113516915836</string>
+    <string name="google_api_key" translatable="false">AIzaSyBZDxxkEape7xbruX6xYDytxrAggG97Cnw</string>
+    <string name="google_app_id" translatable="false">1:113516915836:android:1062fc2732e03647606df9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBZDxxkEape7xbruX6xYDytxrAggG97Cnw</string>
+    <string name="google_storage_bucket" translatable="false">android-project-ae949.appspot.com</string>
+    <string name="library_feed">Library feed</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="no_favorite_posts">No Favorite posts..</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">android-project-ae949</string>
+    <string name="publish_library">Publish library</string>
+    <string name="publish_post">Publish post</string>
+    <string name="register">Register</string>
+    <string name="save_changes">Save changes</string>
+    <string name="search_app_libraries">Search app libraries</string>
+    <string name="search_libraries_on_npm_registry">Search libraries on npm registry..</string>
+    <style name="Base.Theme.AndroidProject" parent="Theme.Material3.DayNight.NoActionBar">
+        
+         <item name="colorPrimary">@color/primary</item>
+    </style>
+    <style name="Theme.AndroidProject" parent="Base.Theme.AndroidProject"/>
+</resources>
