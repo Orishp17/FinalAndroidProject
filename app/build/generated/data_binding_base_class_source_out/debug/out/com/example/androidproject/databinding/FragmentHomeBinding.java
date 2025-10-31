@@ -18,6 +18,7 @@ import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
 
+
 public final class FragmentHomeBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
