@@ -19,6 +19,7 @@ import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
 
+
 public final class NpmRegistryPostItemBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
