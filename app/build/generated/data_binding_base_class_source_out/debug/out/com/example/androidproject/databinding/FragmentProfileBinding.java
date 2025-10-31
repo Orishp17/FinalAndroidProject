@@ -17,6 +17,7 @@ import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
 
+
 public final class FragmentProfileBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
