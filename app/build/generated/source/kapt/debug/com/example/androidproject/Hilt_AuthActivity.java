@@ -16,6 +16,7 @@ import dagger.hilt.internal.UnsafeCasts;
 import java.lang.Object;
 import java.lang.Override;
 
+
 /**
  * A generated base class to be extended by the @dagger.hilt.android.AndroidEntryPoint annotated class. If using the Gradle plugin, this is swapped as the base class via bytecode transformation.
  */
