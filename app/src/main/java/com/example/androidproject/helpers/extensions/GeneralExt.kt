@@ -45,3 +45,4 @@ fun ListView.setupLinksAdapter(links: List<String>, openActivityCallback: (Inten
         }
 }
 
+
