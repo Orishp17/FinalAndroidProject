@@ -78,3 +78,4 @@ public final class ActivityAuthBinding implements ViewBinding {
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }
+
