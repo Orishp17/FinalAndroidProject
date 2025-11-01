@@ -1,194 +1,190 @@
 [
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\navigation_main_nav_graph.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\navigation\\main_nav_graph.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\navigation_auth_nav_graph.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\navigation\\auth_nav_graph.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_register.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_register.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_regis.png.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\regis.png"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_activity_auth.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\activity_auth.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_npm_registry.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_npm_registry.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\menu_bottom_bar_menu.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\menu\\bottom_bar_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_library_post_extras.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\library_post_extras.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_post.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_post.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_profile.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_edit_24.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_exit_to_app_24.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_exit_to_app_24.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_add_24.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_favorites.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_favorites.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_arrow_back_24.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_create_post.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_create_post.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_search.png.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\search.png"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_library_post_extras.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\library_post_extras.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_npm_registry.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_npm_registry.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_regis.png.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\regis.png"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-anydpi\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\navigation_main_nav_graph.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\navigation\\main_nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_boy_24.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_boy_24.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_npm_registry_post_item.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\npm_registry_post_item.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_post_search.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_post_search.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_login.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_start_filled.png.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\start_filled.png"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_arrow_back_24.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_arrow_back_24.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_exit_to_app_24.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_exit_to_app_24.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_library_post_item.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\library_post_item.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_npm_registry_post_item.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\npm_registry_post_item.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.androidproject.app-merged_res-62:/layout_fragment_home.xml.flat",
-        "source": "com.example.androidproject.app-main-64:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_post_search.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_post_search.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_profile.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_profile.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_edit_profile_settings_layout.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\edit_profile_settings_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_star_border.png.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\star_border.png"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_start_filled.png.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\start_filled.png"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_add_24.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_add_24.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_create_post.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_create_post.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-anydpi\\ic_launcher.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_post.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_post.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_search.png.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\search.png"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.androidproject.app-merged_res-62:/layout_fragment_create_post.xml.flat",
+        "source": "com.example.androidproject.app-main-64:/layout/fragment_create_post.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_star_border.png.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\star_border.png"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_profile_settings_layout.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\profile_settings_layout.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_login.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_login.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_auto_awesome_motion_24.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_auto_awesome_motion_24.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_default_man.png.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\default_man.png"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_delete_24.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_delete_24.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_delete_24.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_library_post_item.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\library_post_item.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_auto_awesome_motion_24.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_auto_awesome_motion_24.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_profile_settings_layout.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\profile_settings_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_boy_24.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_boy_24.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\menu_bottom_bar_menu.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\menu\\bottom_bar_menu.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_register.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_edit_profile_settings_layout.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\edit_profile_settings_layout.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\navigation_auth_nav_graph.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\navigation\\auth_nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\drawable_baseline_edit_24.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\drawable\\baseline_edit_24.xml"
-    },
-    {
-        "merged": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_activity_auth.xml.flat",
-        "source": "C:\\Users\\Ori\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\activity_auth.xml"
+        "merged": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-merged_res-62:\\layout_fragment_favorites.xml.flat",
+        "source": "C:\\Users\\orish\\.gradle\\daemon\\8.10\\com.example.androidproject.app-main-64:\\layout\\fragment_favorites.xml"
     }
 ]

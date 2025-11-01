@@ -14,7 +14,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.androidproject.R;
-import com.google.android.material.button.MaterialButton;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -22,9 +21,6 @@ import java.lang.String;
 public final class FragmentPostSearchBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
-
-  @NonNull
-  public final MaterialButton btnBack;
 
   @NonNull
   public final LinearLayout controlsLayout;
@@ -39,11 +35,9 @@ public final class FragmentPostSearchBinding implements ViewBinding {
   public final TextView tvSearchIndicator;
 
   private FragmentPostSearchBinding(@NonNull ConstraintLayout rootView,
-      @NonNull MaterialButton btnBack, @NonNull LinearLayout controlsLayout,
-      @NonNull RecyclerView rvResults, @NonNull SearchView searchView,
-      @NonNull TextView tvSearchIndicator) {
+      @NonNull LinearLayout controlsLayout, @NonNull RecyclerView rvResults,
+      @NonNull SearchView searchView, @NonNull TextView tvSearchIndicator) {
     this.rootView = rootView;
-    this.btnBack = btnBack;
     this.controlsLayout = controlsLayout;
     this.rvResults = rvResults;
     this.searchView = searchView;
@@ -77,12 +71,6 @@ public final class FragmentPostSearchBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.btnBack;
-      MaterialButton btnBack = ViewBindings.findChildViewById(rootView, id);
-      if (btnBack == null) {
-        break missingId;
-      }
-
       id = R.id.controlsLayout;
       LinearLayout controlsLayout = ViewBindings.findChildViewById(rootView, id);
       if (controlsLayout == null) {
@@ -107,8 +95,8 @@ public final class FragmentPostSearchBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentPostSearchBinding((ConstraintLayout) rootView, btnBack, controlsLayout,
-          rvResults, searchView, tvSearchIndicator);
+      return new FragmentPostSearchBinding((ConstraintLayout) rootView, controlsLayout, rvResults,
+          searchView, tvSearchIndicator);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -57,10 +57,6 @@ class CreatePostFragment : ImagePickerFragment() {
             json.decodeFromString<LibraryPost>(it)
         }
 
-        binding.btnBack.setOnClickListener {
-            findNavController().popBackStack()
-        }
-
         // initialize existingPost data
         existingPost?.let {
             binding.etLibName.setText(it.title)

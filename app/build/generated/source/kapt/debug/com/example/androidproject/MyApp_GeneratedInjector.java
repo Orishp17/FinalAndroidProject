@@ -13,4 +13,3 @@ import dagger.hilt.internal.GeneratedEntryPoint;
 public interface MyApp_GeneratedInjector {
   void injectMyApp(MyApp myApp);
 }
-

@@ -16,7 +16,6 @@ import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
 
-
 public final class ProfileSettingsLayoutBinding implements ViewBinding {
   @NonNull
   private final LinearLayout rootView;

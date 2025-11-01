@@ -53,9 +53,6 @@ class PostSearchFragment : Fragment(), LibraryPostListener {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        binding.btnBack.setOnClickListener {
-            findNavController().popBackStack()
-        }
 
         binding.searchView.setOnSearchClickListener {
             binding.tvSearchIndicator.visibility = View.GONE

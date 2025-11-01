@@ -13,7 +13,6 @@ drawable baseline_boy_24
 drawable baseline_delete_24
 drawable baseline_edit_24
 drawable baseline_exit_to_app_24
-drawable default_man
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable regis

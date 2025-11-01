@@ -13,20 +13,15 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.androidproject.R;
-import com.google.android.material.button.MaterialButton;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
 
-
 public final class FragmentCreatePostBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
-
-  @NonNull
-  public final MaterialButton btnBack;
 
   @NonNull
   public final Button btnPublishPost;
@@ -56,13 +51,12 @@ public final class FragmentCreatePostBinding implements ViewBinding {
   public final ImageView ivLibImage;
 
   private FragmentCreatePostBinding(@NonNull ConstraintLayout rootView,
-      @NonNull MaterialButton btnBack, @NonNull Button btnPublishPost,
-      @NonNull LinearLayout controlsLayout, @NonNull TextInputEditText etContent,
-      @NonNull TextInputLayout etLayoutContent, @NonNull TextInputEditText etLibName,
-      @NonNull TextInputLayout etLibNameLayout, @NonNull TextInputEditText etVersion,
-      @NonNull TextInputLayout etVersionLayout, @NonNull ImageView ivLibImage) {
+      @NonNull Button btnPublishPost, @NonNull LinearLayout controlsLayout,
+      @NonNull TextInputEditText etContent, @NonNull TextInputLayout etLayoutContent,
+      @NonNull TextInputEditText etLibName, @NonNull TextInputLayout etLibNameLayout,
+      @NonNull TextInputEditText etVersion, @NonNull TextInputLayout etVersionLayout,
+      @NonNull ImageView ivLibImage) {
     this.rootView = rootView;
-    this.btnBack = btnBack;
     this.btnPublishPost = btnPublishPost;
     this.controlsLayout = controlsLayout;
     this.etContent = etContent;
@@ -101,12 +95,6 @@ public final class FragmentCreatePostBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.btnBack;
-      MaterialButton btnBack = ViewBindings.findChildViewById(rootView, id);
-      if (btnBack == null) {
-        break missingId;
-      }
-
       id = R.id.btnPublishPost;
       Button btnPublishPost = ViewBindings.findChildViewById(rootView, id);
       if (btnPublishPost == null) {
@@ -161,7 +149,7 @@ public final class FragmentCreatePostBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentCreatePostBinding((ConstraintLayout) rootView, btnBack, btnPublishPost,
+      return new FragmentCreatePostBinding((ConstraintLayout) rootView, btnPublishPost,
           controlsLayout, etContent, etLayoutContent, etLibName, etLibNameLayout, etVersion,
           etVersionLayout, ivLibImage);
     }

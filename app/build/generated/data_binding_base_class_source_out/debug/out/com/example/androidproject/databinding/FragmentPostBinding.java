@@ -20,7 +20,6 @@ import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
 
-
 public final class FragmentPostBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;

@@ -12,18 +12,13 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.androidproject.R;
-import com.google.android.material.button.MaterialButton;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
 
-
 public final class FragmentProfileBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
-
-  @NonNull
-  public final MaterialButton btnBack;
 
   @NonNull
   public final LinearLayout controlsLayout;
@@ -35,11 +30,10 @@ public final class FragmentProfileBinding implements ViewBinding {
   public final RecyclerView rvMyPosts;
 
   private FragmentProfileBinding(@NonNull ConstraintLayout rootView,
-      @NonNull MaterialButton btnBack, @NonNull LinearLayout controlsLayout,
+      @NonNull LinearLayout controlsLayout,
       @NonNull ProfileSettingsLayoutBinding profileSettingsLayout,
       @NonNull RecyclerView rvMyPosts) {
     this.rootView = rootView;
-    this.btnBack = btnBack;
     this.controlsLayout = controlsLayout;
     this.profileSettingsLayout = profileSettingsLayout;
     this.rvMyPosts = rvMyPosts;
@@ -72,12 +66,6 @@ public final class FragmentProfileBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.btnBack;
-      MaterialButton btnBack = ViewBindings.findChildViewById(rootView, id);
-      if (btnBack == null) {
-        break missingId;
-      }
-
       id = R.id.controlsLayout;
       LinearLayout controlsLayout = ViewBindings.findChildViewById(rootView, id);
       if (controlsLayout == null) {
@@ -97,7 +85,7 @@ public final class FragmentProfileBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentProfileBinding((ConstraintLayout) rootView, btnBack, controlsLayout,
+      return new FragmentProfileBinding((ConstraintLayout) rootView, controlsLayout,
           binding_profileSettingsLayout, rvMyPosts);
     }
     String missingId = rootView.getResources().getResourceName(id);

@@ -505,23 +505,23 @@ public final class DaggerMyApp_HiltComponents_SingletonC {
     private static final class LazyClassKeyProvider {
       static String com_example_androidproject_viewmodels_AuthViewModel = "com.example.androidproject.viewmodels.AuthViewModel";
 
-      static String com_example_androidproject_viewmodels_MainViewModel = "com.example.androidproject.viewmodels.MainViewModel";
-
       static String com_example_androidproject_viewmodels_NpmRegistryViewModel = "com.example.androidproject.viewmodels.NpmRegistryViewModel";
 
       static String com_example_androidproject_viewmodels_PostSearchViewModel = "com.example.androidproject.viewmodels.PostSearchViewModel";
 
-      @KeepFieldType
-      AuthViewModel com_example_androidproject_viewmodels_AuthViewModel2;
+      static String com_example_androidproject_viewmodels_MainViewModel = "com.example.androidproject.viewmodels.MainViewModel";
 
       @KeepFieldType
-      MainViewModel com_example_androidproject_viewmodels_MainViewModel2;
+      AuthViewModel com_example_androidproject_viewmodels_AuthViewModel2;
 
       @KeepFieldType
       NpmRegistryViewModel com_example_androidproject_viewmodels_NpmRegistryViewModel2;
 
       @KeepFieldType
       PostSearchViewModel com_example_androidproject_viewmodels_PostSearchViewModel2;
+
+      @KeepFieldType
+      MainViewModel com_example_androidproject_viewmodels_MainViewModel2;
     }
   }
 
@@ -573,9 +573,9 @@ public final class DaggerMyApp_HiltComponents_SingletonC {
     private static final class LazyClassKeyProvider {
       static String com_example_androidproject_viewmodels_NpmRegistryViewModel = "com.example.androidproject.viewmodels.NpmRegistryViewModel";
 
-      static String com_example_androidproject_viewmodels_MainViewModel = "com.example.androidproject.viewmodels.MainViewModel";
-
       static String com_example_androidproject_viewmodels_AuthViewModel = "com.example.androidproject.viewmodels.AuthViewModel";
+
+      static String com_example_androidproject_viewmodels_MainViewModel = "com.example.androidproject.viewmodels.MainViewModel";
 
       static String com_example_androidproject_viewmodels_PostSearchViewModel = "com.example.androidproject.viewmodels.PostSearchViewModel";
 
@@ -583,10 +583,10 @@ public final class DaggerMyApp_HiltComponents_SingletonC {
       NpmRegistryViewModel com_example_androidproject_viewmodels_NpmRegistryViewModel2;
 
       @KeepFieldType
-      MainViewModel com_example_androidproject_viewmodels_MainViewModel2;
+      AuthViewModel com_example_androidproject_viewmodels_AuthViewModel2;
 
       @KeepFieldType
-      AuthViewModel com_example_androidproject_viewmodels_AuthViewModel2;
+      MainViewModel com_example_androidproject_viewmodels_MainViewModel2;
 
       @KeepFieldType
       PostSearchViewModel com_example_androidproject_viewmodels_PostSearchViewModel2;
